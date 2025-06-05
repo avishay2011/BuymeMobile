@@ -1,0 +1,1 @@
+{"uuid":"e3401ef6-27c9-4b46-89b4-3d60669ca3ff","name":"test.BaseTest.uploadApp","children":["35f5fcd8-9b6d-4f77-9509-9930a4dccd26"],"description":"","befores":[{"name":"uploadApp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1749042481699,"stop":1749042486946}],"afters":[],"start":1749042481698,"stop":1749042486947}
